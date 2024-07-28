@@ -1,0 +1,32 @@
+Uri: https://cdn.joincommunity.xyz/notcoin/NOTsmall.png
+File Name: D:\WebCopy\farm.joincommunity.xyz\notcoin\NOTsmall.png
+Content Type: image/png
+
+Uri: https://farm.joincommunity.xyz/assets/index-57765492.css
+File Name: D:\WebCopy\farm.joincommunity.xyz\assets\index-57765492.css
+Content Type: text/css
+
+Uri: https://farm.joincommunity.xyz/assets/vendor-c1a8c855.js
+File Name: D:\WebCopy\farm.joincommunity.xyz\assets\vendor-c1a8c855.js
+Content Type: application/javascript
+
+Uri: https://farm.joincommunity.xyz/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: D:\WebCopy\farm.joincommunity.xyz\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://farm.joincommunity.xyz/clicker
+File Name: D:\WebCopy\farm.joincommunity.xyz\clicker.html
+Content Type: text/html
+
+Uri: https://plausible.joincommunity.xyz/js/script.js
+File Name: D:\WebCopy\farm.joincommunity.xyz\js\script.js
+Content Type: application/javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js
+File Name: D:\WebCopy\farm.joincommunity.xyz\beacon.min.js
+Content Type: text/javascript
+
+Uri: https://telegram.org/js/telegram-web-app.js
+File Name: D:\WebCopy\farm.joincommunity.xyz\js\telegram-web-app.js
+Content Type: application/javascript
+
